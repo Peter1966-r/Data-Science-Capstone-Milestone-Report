@@ -1,0 +1,11 @@
+stri_stats_general(dataBlogs)
+##       Lines LinesNEmpty       Chars CharsNWhite 
+##      899288      899288   206824382   170389539
+
+stri_stats_general(dataNews)
+##       Lines LinesNEmpty       Chars CharsNWhite 
+##       77259       77259    15639408    13072698
+
+stri_stats_general(dataTwitter)
+##       Lines LinesNEmpty       Chars CharsNWhite 
+##     2360148     2360148   162096241   134082806
