@@ -1,0 +1,8 @@
+library(plyr)
+library(magrittr)
+library(stringr)
+library(stringi)
+library(tm)
+library(RWeka)
+library(SnowballC)
+library(ggplot2)
